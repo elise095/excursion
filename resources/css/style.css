@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: black;
+  padding: 20px 20px 0px 20px;
+  text-align: center;
+}
+
+/* HEADER */
+header h1{
+  color: white;
+  font-family: Verdana
+  font-size: 50px;
+  padding-bottom: 20px;
+}
+#download{
+  color: aquamarine;
+  font-size: 16px;
+}
