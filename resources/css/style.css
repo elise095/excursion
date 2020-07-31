@@ -19,3 +19,42 @@ header h1{
   color: aquamarine;
   font-size: 16px;
 }
+/* BANNER */
+#banner{
+  padding: 20px 30px;
+}
+#banner img{
+  width: 200px;
+  height: auto;
+}
+
+/* PERSONAL TRAVEL GUIDE */
+#travel h2{
+  color: white;
+  font-size: 42px;
+  font-weight: 300px;
+  padding-bottom: 30px;
+}
+#travel p{
+  color: grey;
+  font-size: 21px;
+}
+#travel img{
+  padding: 15px 0;
+}
+/* FOOTER */
+footer h2{
+  color: white;
+  padding: 20px;
+  font-size: 31px;
+}
+footer a{
+  color: aquamarine;
+  font-size: 16px;
+}
+#copyright{
+  color:gray;
+  text-align: right;
+  font-size: 21px;
+  padding: 10px;
+}
